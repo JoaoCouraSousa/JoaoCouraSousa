@@ -47,4 +47,4 @@ abrir o dado, e sei explicar o resultado pra diretoria sem jargão técnico.
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/joao-coura-820864206)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-coura-820864206)
